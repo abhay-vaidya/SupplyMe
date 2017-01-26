@@ -16,8 +16,11 @@ To serve as an interactive platform for students to lend and borrow school mater
 * HTML + CSS + Jinja2
 
 ## Screenshots
+
+### The splash screen
+
 ![Splash](http://i.imgur.com/b319fpk.png)
 
----
+### The dashboard
 
 ![Dashboard](http://i.imgur.com/9OzYiAW.png)
