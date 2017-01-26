@@ -3,6 +3,7 @@
 # SupplyMe
 ## Purpose
 To serve as an interactive platform for students to lend and borrow school materials.
+
 ## Features
 * Login with ease through your Facebook account
 * Easily put an item up for lending or request an item you need
@@ -13,3 +14,10 @@ To serve as an interactive platform for students to lend and borrow school mater
 * SQLite database
 * Python with Flask framework
 * HTML + CSS + Jinja2
+
+## Screenshots
+![Splash](http://i.imgur.com/b319fpk.png)
+
+---
+
+![Dashboard](http://i.imgur.com/9OzYiAW.png)
